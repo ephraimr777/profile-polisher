@@ -17,7 +17,7 @@ const FooterSection = () => (
           LinkedIn
         </a>
         <a
-          href="https://github.com/ephraim-r"
+          href="https://github.com/ephraimr777"
           target="_blank"
           rel="noopener noreferrer"
           className="text-muted-foreground hover:text-primary transition-colors text-xs font-body"

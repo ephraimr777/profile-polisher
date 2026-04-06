@@ -12,7 +12,7 @@ const AboutSection = () => (
       <div className="grid md:grid-cols-3 gap-8">
         <div className="md:col-span-1 flex justify-center">
           <img
-            src="/images/profile-placeholder.jpg"
+            src="/images/profile-photo.jpg"
             alt="Ephraim R"
             className="w-56 h-56 rounded-2xl object-cover shadow-lg"
             loading="lazy"
