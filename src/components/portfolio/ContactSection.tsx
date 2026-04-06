@@ -84,7 +84,7 @@ const ContactSection = () => {
               <div>
                 <h4 className="text-sm font-heading font-bold text-foreground">GitHub</h4>
                 <a
-                  href="https://github.com/ephraim-r"
+                  href="https://github.com/ephraimr777"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs text-primary font-body hover:underline"

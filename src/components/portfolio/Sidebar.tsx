@@ -36,7 +36,7 @@ const Sidebar = () => {
       >
         <div className="mb-6">
           <img
-            src="/images/profile-placeholder.jpg"
+            src="/images/profile-photo.jpg"
             alt="Ephraim R - Profile"
             className="w-28 h-28 rounded-full border-4 border-sidebar-accent object-cover"
           />
@@ -60,7 +60,7 @@ const Sidebar = () => {
             in
           </a>
           <a
-            href="https://github.com/ephraim-r"
+            href="https://github.com/ephraimr777"
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 rounded-full bg-sidebar-accent/20 flex items-center justify-center text-sidebar-accent hover:bg-sidebar-accent hover:text-primary-foreground transition-colors text-sm"
